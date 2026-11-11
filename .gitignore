@@ -13,3 +13,10 @@ __pycache__/
 
 # Environment variables
 .env
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.log
